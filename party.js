@@ -1,0 +1,45 @@
+export const  party = [
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    },
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    },
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    },
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    },
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    },
+    {
+        date:'06/06/2020',
+        hour:'11:13', 
+        name:'Dominoes', 
+        winner:'Dadatoa', 
+        image:'../assets/images/chess.jpeg'
+    }
+    
+]
